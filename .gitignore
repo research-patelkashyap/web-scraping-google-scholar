@@ -1,0 +1,3 @@
+.env
+data/scholar_data.json
+src/to-csv
